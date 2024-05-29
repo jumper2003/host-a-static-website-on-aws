@@ -1,3 +1,5 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
+
 # Host a Static Website on AWS
 
 This project involves hosting a static HTML web application on AWS, utilizing various AWS resources to ensure scalability, reliability, and security. Below are the detailed steps and configurations used to deploy the web application on an EC2 instance within a Virtual Private Cloud (VPC). The reference diagram and scripts used in this project are available in the [GitHub repository](https://github.com/aosnotes77/host-a-static-website-on-aws).
